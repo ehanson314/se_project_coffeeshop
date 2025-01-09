@@ -53,6 +53,11 @@
 .header__span-accent {
   color: #3f96f3;
   display: block;
+  font-family: "Noto Serif", "Times New Roman", sans-serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 60px;
+  line-height: 72px;
 }
 
 .header__footer {
@@ -64,6 +69,12 @@
 .header__paragraph {
   margin: 0;
   align-content: end;
+  font-family: "Inter", "Arial", serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6f6f6f;
 }
 
 .nav {
@@ -78,6 +89,11 @@
   gap: 20px;
   padding: 0;
   margin: 0;
+  font-family: "Inter", "Arial", serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .nav__logo {
