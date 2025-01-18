@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Creating socials for the shop so we can use actual links
+- Adding more animations to sections to give the site more vibrance
+- Adding a form to contact for catering options
