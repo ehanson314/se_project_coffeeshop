@@ -16,6 +16,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: 2;
 }
 
 .header__title {
@@ -27,6 +28,7 @@
   line-height: 72px;
   letter-spacing: -0.6px;
   max-width: 729px;
+  z-index: 3;
 }
 
 .header__description {
@@ -37,6 +39,7 @@
   line-height: 30px;
   margin: 28px 0 0;
   max-width: 683px;
+  z-index: 3;
 }
 
 .header__span-accent {
@@ -47,21 +50,24 @@
   font-weight: 400;
   font-size: 60px;
   line-height: 72px;
+  z-index: 3;
 }
 
 .header__footer {
   margin-top: auto;
   display: flex;
   justify-content: space-between;
+  z-index: 3;
 }
 
 .header__paragraph {
   margin: 0;
   align-content: end;
-  font-family: "Inter", "Arial", serif;
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   color: #6f6f6f;
+  z-index: 3;
 }
